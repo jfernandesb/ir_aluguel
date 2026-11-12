@@ -1,0 +1,32 @@
+[26-May-2026 09:59:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 09:59:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 09:59:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 10:00:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 10:00:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 10:01:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 10:01:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
+[26-May-2026 10:06:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/ir_aluguel/index.php on line 31
